@@ -135,10 +135,3 @@ Demo Video (if applicable)
 
 This project was completed under the SmartInternz – Naan Mudhalvan Program, guided by the ServiceNow learning module and practical implementation exercises.
 Special thanks to mentors and coordinators for their valuable support.
-
-👤 Author
-
-Name: Hari
-Program: Naan Mudhalvan – SmartInternz
-Project: Optimizing User, Group, and Role Management with Access Control and Workflows
-Platform: ServiceNow
